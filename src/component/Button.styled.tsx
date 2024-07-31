@@ -12,7 +12,7 @@ export const MainBtn = styled.button<StyledBtnPropsType>`
     height: 30px;
     border: 2px solid ${theme.colors.btn};
     border-radius: 5px;
-    color:#4E71FE;
+    color:  #4E71FE;
     background-color: transparent;
 
     &:hover {

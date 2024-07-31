@@ -2,8 +2,8 @@ import styled from "styled-components";
 import { theme } from "../styles/Theme.styled";
 
 export const Text = styled.div`
-    width: 70px;
-    height: 19px;
+    max-width: 70px;
+    max-height: 19px;
     margin-top: 10px;
     margin-left: 20px;
 `
